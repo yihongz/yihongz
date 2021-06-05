@@ -1,16 +1,23 @@
-### Hi there 👋
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<!--
-**yihongz/yihongz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there! I'm Paulo Almeida! <img height="30" width="30" src="https://github.com/yihongz/yihongz/blob/main/tenor.gif" />
 
-Here are some ideas to get you started:
+I am a biomedical engineer specializing in software engineering and a Fullstack Developer. I have experience in working in many startups as technical Lead and Full stack developer👨‍💻. I recently created a account on [Dev.to](https://dev.to/yihongz), and I will start sharing web development tips and this kind of stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href= "https://www.linkedin.com/in/paulo-victor-s-almeida-2a1351157/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://dev.to/yihongz"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://twitter.com/yihongz"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "mailto:engpauloxyz@gmail.com"><img src="https://img.icons8.com/ios-filled/28/gmail.png"/></a>
+</p>
+
+#### Quick list!
+
+- 📱  I’m currently working on [Hospital Santa Mônica](http://www.hospsantamonica.com.br) as a Systems Development and Implementation Coordinator.
+- 🤓 I'm deeping my study on SQL and other ways to do backend.
+- 💬 Ask me about PHP, NodeJS, Java e VueJS.
+- 📫 How to reach me: engpauloxyz@gmail.com or Twitter [@yihongz](https://twitter.com/yihongz)
+
+#### Some stats?
+
+![Haany's github stats](https://github-readme-stats.vercel.app/api?username=yihongz&show_icons=true&hide=[%22issues%22])
