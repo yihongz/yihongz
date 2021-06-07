@@ -2,7 +2,7 @@
 
 ### Hello there! I'm Paulo Almeida! <img height="30" width="30" src="https://github.com/yihongz/yihongz/blob/main/tenor.gif" />
 
-I am a biomedical engineer specializing in software engineering and a Fullstack Developer. I have experience in working in many startups as technical Lead and Full stack developer👨‍💻. I recently created a account on [Dev.to](https://dev.to/yihongz), and I will start sharing web development tips and this kind of stuff.
+I am a biomedical engineer specializing in software engineering. I have experience in working in many startups as technical Lead and Full stack developer👨‍💻. I recently created a account on [Dev.to](https://dev.to/yihongz), and I will start sharing web development tips and this kind of stuff.
 
 <p align="center">
 <a href= "https://www.linkedin.com/in/paulo-victor-s-almeida-2a1351157/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
