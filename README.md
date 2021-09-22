@@ -13,9 +13,9 @@ I am a biomedical engineer specializing in software engineering. I have experien
 
 #### Quick list!
 
-- 📱  I’m currently working on [Hospital Santa Mônica](http://www.hospsantamonica.com.br) as a Systems Development and Implementation Coordinator.
-- 🤓 I'm deeping my study on SQL and other ways to do backend.
-- 💬 Ask me about PHP, NodeJS, Java e VueJS.
+- 📱  I’m currently working on [Autoglass](http://www.autoglass.com.br) as a Software Developer.
+- 🤓 I'm deeping my study on C# and other ways to do backend.
+- 💬 Ask me about PHP, NodeJS, Java, VueJS and Angular.
 - 📫 How to reach me: engpauloxyz@gmail.com or Twitter [@yihongz](https://twitter.com/yihongz)
 
 #### Some stats?
