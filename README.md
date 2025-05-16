@@ -6,7 +6,7 @@ I am a biomedical engineer specializing in software engineering. I have experien
 
 <p align="center">
 <a href= "https://www.linkedin.com/in/paulo-victor-s-almeida-2a1351157/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://dev.to/yihongz"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://dev.to/yihongz11"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
 <a href= "https://twitter.com/yihongz11"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 <a href= "mailto:engpauloxyz@gmail.com"><img src="https://img.icons8.com/ios-filled/28/gmail.png"/></a>
 </p>
