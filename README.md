@@ -16,7 +16,7 @@ I am a biomedical engineer specializing in software engineering. I have experien
 - 📱  I’m currently working on [Zapisp](https://www.zapisp.com.br) as a CTO.
 - 🤓 I'm deeping my study on C# and other ways to do backend.
 - 💬 Ask me about PHP, NodeJS, Java, VueJS and Angular.
-- 📫 How to reach me: engpauloxyz@gmail.com or Twitter [@yihongz](https://twitter.com/yihongz)
+- 📫 How to reach me: engpauloxyz@gmail.com or Twitter [@yihongz11](https://twitter.com/yihongz11)
 
 #### Some stats?
 
